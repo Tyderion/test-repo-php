@@ -20,7 +20,7 @@ function generateBlowfishSalt() {
 
 function hash_password($pw) {
   $salt = generateBlowfishSalt();
-  $hash = crypt($pw, '$2a$12$' . $salt);
+  $hash = crypt($pw , '$2a$12$' . $saltj);
   return $hash;
 }
 

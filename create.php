@@ -5,6 +5,7 @@
 // Beschreibung: Erstellt einen Eintrag falls ein User eingeloggt ist.
 // letzte Änderung: 14.05.13 / Gabriel Nadler
 // -------------------------------------------------------------------
+require_once("check_session.php");
 require_once("functions.php");
 require_once("db_connect.php");
 session_start();

@@ -1,4 +1,5 @@
 <?php
+require_once("check_session.php");
 require_once('functions.php');
 require_once('db_connect.php');
 if (isset($_POST["entry_id"]))

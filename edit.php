@@ -5,6 +5,7 @@
 // Beschreibung: Editiert Benutzerangaben
 // letzte Änderung: 04.06.13 / Gabriel Nadler
 // -------------------------------------------------------------------
+require_once("check_session.php");
 require_once('functions.php');
 require_once('db_connect.php');
 require_once('password.php');

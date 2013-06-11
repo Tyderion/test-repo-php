@@ -5,6 +5,7 @@
 // Beschreibung: Authentifiziert User und zeigt seine Einträge.
 // letzte Änderung: 07.05.13 / Gabriel Nadler
 // -------------------------------------------------------------------
+require_once("check_session.php");
 require_once('db_connect.php');
 require_once('functions.php');
 create_html5_header("Übersicht");
