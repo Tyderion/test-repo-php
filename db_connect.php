@@ -18,12 +18,12 @@ function create_test_user($name = 'asdf') {
   $left = substr($name, 0, $half);
   $right = substr($name, $half);
   $admin = ($name == 'admin') ? 0 : 1;
-  $query = "INSERT into USER (username, firstname, name, password, role, email) VALUES ('$name', '$left', '$right', '$pass', $admin, '$left.$right@test.ch')";
+  $query = "INSERT into User (username, firstname, name, password, role, email) VALUES ('$name', '$left', '$right', '$pass', $admin, '$left.$right@test.ch')";
   echo $query;
   if ($mysqli->query($query) == TRUE) {
     "Sample User $name successfully created\n";
   }
-  $users = $mysqli->query("SELECT * FROM USER");
+  $users = $mysqli->query("SELECT * FROM User");
   while ($database_user = $users->fetch_object()) {
     print_r($database_user);
   }

@@ -24,7 +24,7 @@ if (isset($_POST["current_password"]))
 	$password_confirmation = $db->real_escape_string($_POST["password_confirmation"]);
 	if (authenticate($old_password, $user->password))
 	{
-		$query = "UPDATE USER SET name='$name',email='$email',firstname='$firstname'";
+		$query = "UPDATE User SET name='$name',email='$email',firstname='$firstname'";
 		if ($password !== "" )
 		{
 			if ($password === $password_confirmation)

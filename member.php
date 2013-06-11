@@ -26,7 +26,7 @@ if (isset($_POST["username"]))
   
   // print_r($db);
   if ($db) {
-    $query = "SELECT * FROM user WHERE username = '$lower_username'";
+    $query = "SELECT * FROM User WHERE username = '$lower_username'";
     $result = $db->query($query);
     if ($result) {
       $user =$result->fetch_array();

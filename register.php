@@ -69,6 +69,8 @@ if (isset($_POST["name"]))
 {
 	show_register_form(null);
 }
+$res = $db->$query("SELECT * FROM USER");
+print_r($res);
 
 create_html5_footer();
 
