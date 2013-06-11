@@ -1,0 +1,1136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"USEr",
+				"User"
+			],
+			[
+				"Table",
+				"TABLE"
+			],
+			[
+				"form",
+				"FORM	Tag"
+			],
+			[
+				"vali",
+				"validateEmail"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"requr",
+				"required_Vorname"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"test",
+				"testinput"
+			],
+			[
+				"u",
+				"uksort"
+			],
+			[
+				"new",
+				"new_record"
+			],
+			[
+				"diff",
+				"diff_percentage"
+			],
+			[
+				"current",
+				"current_record"
+			],
+			[
+				"sorte",
+				"sorted_records"
+			],
+			[
+				"curre",
+				"current_record"
+			],
+			[
+				"diff_",
+				"diff_percentage"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"ack",
+				"background-color"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"record",
+				"record_data"
+			],
+			[
+				"ce",
+				"cellpadding"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"preg",
+				"preg_match"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "struktur.md",
+			"settings":
+			{
+				"buffer_size": 558,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "password.php",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 762,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 2647,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "db_connect.php",
+			"settings":
+			{
+				"buffer_size": 2841,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/games/neverwinterpw.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "68Vd0pDIxi\n",
+			"file": "/D/games/Npa3WRPhRrT5.txt",
+			"file_size": 12,
+			"file_write_time": 130132950159852661,
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/mandelbrot.py",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "member.php",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "create.php",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 62.0,
+		"selected_items":
+		[
+			[
+				"snipet frie",
+				"Snippet: Fügt den Header für ein Frieden-Projekt hinzu"
+			],
+			[
+				"Snippet: fri",
+				"Snippet: Fügt den Header für ein Frieden-Projekt hinzu"
+			],
+			[
+				"friede",
+				"Snippet: Fügt den Header für ein Frieden-Projekt hinzu"
+			],
+			[
+				"frieden",
+				"Snippet: Fügt den Header für ein Frieden-Projekt hinzu"
+			],
+			[
+				"projekt",
+				"Snippet: projekt_frieden"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo … ?>"
+			],
+			[
+				"war",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"ct",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"nstall",
+				"Package Control: Install Package"
+			],
+			[
+				"swap",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"rebuild",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/151 - Datenbanken in Webauftritt einbinden/myguestbook/logout.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/122 - Abläufe mit Skripts automatisieren/AB122_01_Skripts/000-functional.vbs",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/122 - Abläufe mit Skripts automatisieren/AB122_01_Skripts/002-oo.vbs",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/122 - Abläufe mit Skripts automatisieren/AB122_01_Skripts/001-imperativ.vbs",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/151 - Datenbanken in Webauftritt einbinden/myguestbook/member.php",
+		"/C/xampp/htdocs/umfrage2/index.html",
+		"/C/xampp/htdocs/umfrage2/auswertung.html",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/151 - Datenbanken in Webauftritt einbinden/myguestbook/db_connect.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/151 - Datenbanken in Webauftritt einbinden/myguestbook/functions.php",
+		"/C/Users/Archie/AppData/Roaming/Sublime Text 2/Packages/User/projekt_frieden.sublime-snippet",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/151 - Datenbanken in Webauftritt einbinden/myguestbook/functions.ph",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/151 - Datenbanken in Webauftritt einbinden/myguestbook/guestbook.sublime-project",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/fragen2.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/showplot.php",
+		"/C/Users/Archie/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/radarplot.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/fragen.txt",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/index2.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/einstieg1.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/spiderplot.php",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/dat/antworten.txt",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/details.php",
+		"/D/mandelbrot4.py",
+		"/D/mandelbrot3.py",
+		"/D/mandelbrot2.py",
+		"/D/mandelbrot.py",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/306 - IT-Kleinprojekt abwickeln/ActiveSambaGenerator/Ubuntu Setup/Installing Samba - Try 2.md",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage2/auswertung1.php",
+		"/C/xampp/htdocs/umfrage2/umfrage.css",
+		"/C/xampp/htdocs/umfrage2/einstieg1.php",
+		"/C/xampp/htdocs/umfrage2/dat/antworten.txt",
+		"/C/xampp/htdocs/umfrage2/module.php",
+		"/C/xampp/htdocs/umfrage2/auswertung1.php",
+		"/C/xampp/htdocs/umfrage2/tests.txt",
+		"/C/xampp/htdocs/umfrage2/einstieg1.html",
+		"/C/xampp/htdocs/umfrage2/fragen.txt",
+		"/C/xampp/htdocs/umfrage2/dat/fragen.txt",
+		"/C/xampp/htdocs/umfrage2/test.php",
+		"/C/xampp/htdocs/umfrage2/index2.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Archie/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Archie/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Archie/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/umfrage2/dat/fragen2.txt",
+		"/C/xampp/htdocs/umfrage2/index.php",
+		"/C/xampp/htdocs/umfrage1/umfrage.css",
+		"/C/xampp/htdocs/umfrage2/antworten.txt",
+		"/C/xampp/htdocs/umfrage2/fragen1.php",
+		"/C/xampp/htdocs/umfrage2/auswertung.php",
+		"/C/xampp/htdocs/umfrage2/index.ph",
+		"/C/xampp/htdocs/umfrage2/fragen1.html",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage1/fragen.txt",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage1/fragen1.html",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/php-umfrage/umfrage1/script.js",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 1/Modul 101/HomePage Projekt/index2.html",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/mandelbrot/mandel.js",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/semester 2/133 - webapplikation realiseren/mandelbrot/recipe-577277-1.js",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/semester 2/133 - webapplikation realiseren/mandelbrot/recipe-577277-1.html",
+		"/C/Users/Archie/AppData/Roaming/Microsoft/Windows/Cookies/U1WZHO3N.txt",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/taschenrechner/rechner.js",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/taschenrechner/rechner.css",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/taschenrechner/rechner.html",
+		"/C/Users/Archie/Documents/Dropbox/Gibb/Semester 2/133 - Webapplikation realiseren/taschenrechner/index.html",
+		"/C/Users/Archie/AppData/Local/Temp/Temp1_AnonymousPro-1.002.zip/AnonymousPro-1.002.001/README.txt",
+		"/C/Users/Archie/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"password",
+			"Password",
+			"password",
+			"pasword",
+			"Username",
+			"username",
+			"password",
+			"$",
+			"str",
+			"showplot",
+			"mail",
+			"Befürworten",
+			"record",
+			" new RadarPlot($answers2);\n// $plot2->SetLegend(\"Aktuelle Antwort\");\n// $plot2->SetColor(\"blue\",\"lightblue\");\n\n// // Add the plots to the graph\n// $graph->Add($plot2);",
+			"answers",
+			"record",
+			"tr",
+			"td",
+			"swap",
+			"POST",
+			"echo \"POST\";\nprint_r($_POST);\n",
+			"\\\"",
+			"regform",
+			"questionaire",
+			"\\\"",
+			"test",
+			"getRecord",
+			"$nachname",
+			"$vorname",
+			"anrede",
+			"§",
+			"td",
+			"record",
+			"Record",
+			"record",
+			"§3§3§3§3§3§3§3§3§3",
+			"§3§3§3§3§3§3§3§3",
+			"[i",
+			"@@@",
+			"function getRecord($email_address)",
+			"harmony",
+			"tr",
+			"file",
+			"FILE",
+			"file",
+			"eq",
+			"echo \"",
+			"\"",
+			"EOT",
+			"\"",
+			"BACKGROUND-COLOR",
+			"echo",
+			"class=\"norm\"",
+			"align",
+			"</br>",
+			" <br />",
+			"vor",
+			"\\\"",
+			"nowrap=\"nowrap\"",
+			"td",
+			"valign=\"top\"",
+			"line",
+			"id=\"mySV1\"",
+			" src=",
+			"name=\"mySV1\"",
+			"<[A...Z]{1,}",
+			"<[A...Z]+",
+			"[A...Z]+",
+			"[A...Z]*",
+			"<[A...Z]*",
+			"candsforvote",
+			"checkForm",
+			"handle",
+			"^$",
+			"char",
+			"round"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "struktur.md",
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "56963071",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "password.php",
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "166c0431",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login.php",
+					"settings":
+					{
+						"buffer_size": 762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "68cfa685",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 2647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "8b7bec0c",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 209.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "db_connect.php",
+					"settings":
+					{
+						"buffer_size": 2841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "ebff3f76",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/games/neverwinterpw.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "23688a37",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/games/Npa3WRPhRrT5.txt",
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "f64d1c5e",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/mandelbrot.py",
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "ca0868b2",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "member.php",
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "dc3f680b",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "create.php",
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"buffer_scroll_name": "dd8e296e",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mem",
+				"member.php"
+			],
+			[
+				"member",
+				"member.php"
+			],
+			[
+				"con",
+				"db_connect.php"
+			],
+			[
+				"stru",
+				"struktur.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,70 @@
+textarea,input {
+	float: left;
+	clear: both;
+}
+
+label {
+	float: left;
+	clear: left;
+}
+
+footer {
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+}
+
+.notification
+{
+	color: red;
+	float: left;
+	clear: both;
+}
+
+#login {
+	float: left;
+	clear: both;
+}
+
+textarea {
+	width: 350px;
+	height: 5em;
+	max-width: 350px;
+	max-height: 10em;
+
+}
+
+.entry {
+	background-color: lightgray;
+	display: block;
+	width: 350px;
+	border: 2px solid black;
+	padding: 5px;
+	overflow: auto;
+}
+
+
+.entry > span.label {
+	font-weight:bold;
+	float: left;
+	clear: left;
+	display: block;
+}
+
+.entry > .content {
+	float: left;
+}
+
+.forum {
+
+	float: left;
+	clear: both;
+}
+
+.list
+{
+	float: left;
+	clear: both;
+	margin-left: 40%;
+	margin-right: 60%;
+}
